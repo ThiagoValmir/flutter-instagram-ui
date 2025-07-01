@@ -31,7 +31,6 @@ Treinar e consolidar conhecimentos em:
 Este projeto foi desenvolvido como parte do meu aprendizado em Flutter, acompanhando o seguinte tutorial:
 
 🎥 **[Instagram UI Clone Using Flutter](https://www.youtube.com/watch?v=z5PH2s9ytl8)**  
-Criado por **Kotlin Blog**, canal focado em tutoriais de desenvolvimento mobile.
 
 ## Como rodar o projeto
 
